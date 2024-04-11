@@ -57,7 +57,7 @@
 <p align="center">
 <br>
 <a href='https://gooddrag.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href=""><img src="https://img.shields.io/badge/arXiv-Preprint-brightgreen.svg" alt="arXiv Preprint"></a>
+<a href="https://arxiv.org/abs/2404.07206"><img src="https://img.shields.io/badge/arXiv-Preprint-brightgreen.svg" alt="arXiv Preprint"></a>
 <a href="https://colab.research.google.com/drive/1eoX-AngrcHocLKAgL5g5fyseLW_DusWl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
 <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
 </p>
