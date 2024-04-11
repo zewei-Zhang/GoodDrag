@@ -54,6 +54,10 @@
     <img src="./assets/furniture_0/image_with_new_points.png" width="20%" />
     <img src="./assets/furniture_0/trajectory.gif" width="20%" />
 </div>
+
+<div align="center">
+    <img src="./assets/GoodDrag_demo.gif" width="82%" />
+</div>
 <p align="center">
 <br>
 <a href='https://gooddrag.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
