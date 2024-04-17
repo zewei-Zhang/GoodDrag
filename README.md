@@ -66,6 +66,9 @@
 <a href="https://drive.google.com/file/d/1qzUizzrSRd4bBaT-0bCYZr-MDpiKXjhW/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Dataset-blue.svg" alt="Download Dataset"></a>
 </p>
 
+## 📢 Latest Updates
+- **2024.04.17** - Updated DAI (Dragging Accuracy Index) and GScore (Gemini Score) evaluation methods. Please check the evaluation file. GScore is modified from [Generative AI](https://github.com/GoogleCloudPlatform/generative-ai/tree/main).
+
 ## 1. Getting Started with GoodDrag
 
 Before getting started, please make sure your system is equipped with a CUDA-compatible GPU and Python 3.9 or higher. We provide three methods to directly run GoodDrag:
