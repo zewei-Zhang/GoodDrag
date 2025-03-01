@@ -68,6 +68,7 @@
 
 ## 📢 Latest Updates
 - **2024.04.17** - Updated DAI (Dragging Accuracy Index) and GScore (Gemini Score) evaluation methods. Please check the evaluation file. GScore is modified from [Generative AI](https://github.com/GoogleCloudPlatform/generative-ai/tree/main).
+- **2025.03.01** - Our paper is accepted by ICLR2025!
 
 ## 1. Getting Started with GoodDrag
 
@@ -109,11 +110,11 @@ We have predefined a set of parameters in the GoodDrag WebUI. Here are a few tha
 Part of the code was based on [DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) and [DragGAN](https://github.com/XingangPan/DragGAN). Thanks for the great work!
 
 ## 4. BibTeX
-```
-@article{zhang2024gooddrag,
+```bibtex
+@inproceedings{zhang2025gooddrag,
     title={GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models},
-    author={Zhang, Zewei and Liu, Huan and Chen, Jun and Xu, Xiangyu},
-    journal = {arXiv},
-    year={2024}
+    author={Zewei Zhang and Huan Liu and Jun Chen and Xiangyu Xu},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
 }
 ```
