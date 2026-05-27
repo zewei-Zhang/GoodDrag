@@ -1,7 +1,7 @@
 <p align="center">
   <img align="left" src="./assets/gooddrag_icon.png" width="14%" /><h1 align="center"><em>GoodDrag</em>: Towards Good Practices for Drag Editing with Diffusion Models</h1>
   <p align="center">
-    <strong>Zewei Zhang</strong>
+    <a href="https://zewei-zhang.github.io/"><strong>Zewei Zhang</strong></a>
     &nbsp;&nbsp;
     <strong>Huan Liu</strong>
     &nbsp;&nbsp;
